@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ask.Me</string>
+    <string name="google_login"> Enter Heaven </string>
+
+    <string name="title_activity_splash_screen">Ask.Me</string>
+    <string name="app_name_description">App name</string>
+    <string name="google_login_description">Sign in with Google button</string>
+
+</resources>
